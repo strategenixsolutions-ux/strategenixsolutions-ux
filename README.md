@@ -15,7 +15,7 @@ The work I am paid for is covered by NDA, so none of it can be shown. These repo
 | Repository | What it shows |
 |---|---|
 | [agent-delivery-patterns](https://github.com/strategenixsolutions-ux/agent-delivery-patterns) | Governed agent delivery, as runnable examples. A canary write verified field by field before a batch goes out, a held queue for writes that would overturn a recorded decision, and a portfolio health read computed from how work behaves and reconciled against what owners reported. Plain Node, no dependencies, no network. |
-| [vehicle-price-search](https://github.com/strategenixsolutions-ux/vehicle-price-search) | A complete small system rather than a snippet: a configurable search engine that ranks vehicles on landed price instead of sticker, with a seeded data layer, 161 tests, and a packaged Claude Code skill that drives it. |
+| [vehicle-price-search](https://github.com/strategenixsolutions-ux/vehicle-price-search) | A complete small system rather than a snippet: a configurable search engine that ranks vehicles on landed price instead of sticker, with a seeded data layer, 161 tests, and a packaged Claude Code skill that drives it. [Worked example of a real run.](https://vehicle-price-search-example.vercel.app) |
 
 Both are MIT licensed. Neither needs an account or an API key to run the examples.
 
